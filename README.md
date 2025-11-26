@@ -8,6 +8,10 @@ Known issues should be resolved as soon as possible.
 
 - Pipeline: A first compilation (or after `swift package clean`) gives warnings about missing dependencies (but then compiles just fine).
 
+## Improvements
+
+- Optimizations for the parser (perhaps by foregoing precise localization of incorrect UTF-8 encoding).
+
 ## Additions
 
 Additional features may be implemented, provided the necessary resources are available.
