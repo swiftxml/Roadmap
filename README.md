@@ -13,6 +13,8 @@ Known issues should be resolved as soon as possible.
 Additional features may be implemented, provided the necessary resources are available.
 
 - A validation package (presumingly for W3C schemas).
+- A Windows GUI for a “typical” application that uses the Pipeline frameword.
+- GUIs for other platforms.
 
 ## Breaking changes
 
