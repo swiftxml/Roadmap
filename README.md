@@ -10,6 +10,8 @@ Known issues should be resolved as soon as possible.
 
 ## Improvements
 
+Improvements should be implemented, provided the necessary resources are available.
+
 - Optimizations for the parser (perhaps by foregoing precise localization of incorrect UTF-8 encoding).
 
 ## Additions
