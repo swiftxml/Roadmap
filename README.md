@@ -4,9 +4,13 @@ A roadmap of things that should or could come for the SwiftXML project.
 
 ## Known problems
 
+Known problems should be resolved as soon as possible.
+
 - Pipeline: A first compilation (or after `swift package clean`) gives warnings about missing dependencies (but then compiles just fine).
 
 ## Additions
+
+Additional features may be implemented, provided the necessary resources are available.
 
 - A validation package (presumingly for W3C schemas).
 
@@ -14,6 +18,8 @@ A roadmap of things that should or could come for the SwiftXML project.
 
 The implementation of breaking requires a new major version. To prevent too many major versions to happen, breaking changes should first be collected here, allowing to implement them at once.
 
-### Renaming
+The next major version number will be 2.
+
+### Breaking changes: Renaming
 
 - EventProcessorForLogger: Argument `excutionInfoFormat` → `infoFormat`
