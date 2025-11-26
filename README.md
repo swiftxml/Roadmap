@@ -18,6 +18,7 @@ Improvements should be implemented, provided the necessary resources are availab
 
 Additional features may be implemented, provided the necessary resources are available.
 
+- Handling of XInclude.
 - A streaming interface for the parser.
 - A validation package (presumingly for W3C schemas).
 - A Windows GUI for a “typical” application that uses the Pipeline framework.
