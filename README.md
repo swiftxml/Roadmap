@@ -10,7 +10,7 @@ Known issues should be resolved as soon as possible.
 
 ## Improvements
 
-Improvements should be implemented, provided the necessary resources are available.
+Improvements are changes that are not necessarily immediately noticeable to the user of the API or the end user.
 
 - Optimizations for the parser (but consider the possibly coming streaming interface for the parser).
 
