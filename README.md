@@ -4,11 +4,11 @@ A roadmap of things that should or could come for the SwiftXML project.
 
 ## Known problems
 
-- Pipeline: A first compilation (or after `swift package clean`) gives warning about missing dependencies (but the compiles just fine).
+- Pipeline: A first compilation (or after `swift package clean`) gives warnings about missing dependencies (but then compiles just fine).
 
 ## Additions
 
-- A validation package.
+- A validation package (presumingly for W3C schemas).
 
 ## Breaking changes
 
