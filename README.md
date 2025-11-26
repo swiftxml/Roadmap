@@ -16,7 +16,7 @@ Additional features may be implemented, provided the necessary resources are ava
 
 ## Breaking changes
 
-The implementation of breaking requires a new major version. To prevent too many major versions to happen, breaking changes should first be collected here, allowing to implement them at once.
+The implementation of breaking changes requires a new major version. To prevent too many major versions to happen, breaking changes should first be collected here, allowing to implement them at once.
 
 The next major version number will be 2.
 
