@@ -2,9 +2,9 @@
 
 A roadmap of things that should or could come for the SwiftXML project.
 
-## Known problems
+## Known issues
 
-Known problems should be resolved as soon as possible.
+Known issues should be resolved as soon as possible.
 
 - Pipeline: A first compilation (or after `swift package clean`) gives warnings about missing dependencies (but then compiles just fine).
 
