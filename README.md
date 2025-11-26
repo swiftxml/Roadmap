@@ -12,7 +12,7 @@ Known issues should be resolved as soon as possible.
 
 Improvements should be implemented, provided the necessary resources are available.
 
-- Optimizations for the parser (perhaps by foregoing precise localization of incorrect UTF-8 encoding).
+- Optimizations for the parser (perhaps by foregoing precise localization of incorrect UTF-8 encoding, but consider the possibly coming streaming interface for the parser).
 
 ## Additions
 
