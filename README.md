@@ -31,3 +31,4 @@ The implementation of breaking changes requires a new major version. To prevent 
 ### Breaking changes: Renaming
 
 - EventProcessorForLogger: Argument `excutionInfoFormat` → `infoFormat`
+- `serialized(...)`: `suppressDeclarationForNamespaceURIs`  → `suppressingDeclarationForNamespaceURIs`
